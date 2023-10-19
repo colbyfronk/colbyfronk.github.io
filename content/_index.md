@@ -65,7 +65,7 @@ sections:
         - title: PhD Student Researcher and Teaching Assistant
           company: University of California, Santa Barbara
           company_url: ''
-          company_logo: org-UCSB
+          company_logo: UC_Santa_Barbara_logo
           location: Santa Barbara, California
           date_start: '2019-09-01'
           date_end: ''
