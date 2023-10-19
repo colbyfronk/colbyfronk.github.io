@@ -114,7 +114,7 @@ sections:
           location: Mechanicsburg, Pennsylvania
           date_start: '2013-05-01'
           date_end: '2015-09-01'
-          description: Taught electronic engineering and researched semiconductor physics.
+          #description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
