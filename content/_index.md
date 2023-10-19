@@ -87,9 +87,17 @@ sections:
           company: Pennsylvania State University
           company_url: ''
           company_logo: PSU_logo
-          location: University Park, PA
+          location: University Park, Pennsylvania
           date_start: '2018-05-01'
           date_end: '2018-08-01'
+          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Product Commercialization & Process Engineering Co-op
+          company: The Hershey Company
+          company_url: ''
+          company_logo: LLNL_logo
+          location: Hershey, Pennsylvania
+          date_start: '2017-05-01'
+          date_end: '2018-05-01'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
