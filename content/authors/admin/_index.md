@@ -7,8 +7,8 @@ first_name: Colby
 last_name: Fronk
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -19,7 +19,7 @@ role: AI4Science PhD Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of California, Santa Barbara
-    url: https://www.stanford.edu/
+    url: https://www.ucsb.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
