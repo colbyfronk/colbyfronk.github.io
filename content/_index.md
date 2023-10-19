@@ -94,7 +94,7 @@ sections:
         - title: Product Commercialization & Process Engineering Co-op
           company: The Hershey Company
           company_url: ''
-          company_logo: LLNL_logo
+          company_logo: hershey_logo
           location: Hershey, Pennsylvania
           date_start: '2017-05-01'
           date_end: '2018-05-01'
