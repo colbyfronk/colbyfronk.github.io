@@ -83,7 +83,7 @@ sections:
           date_start: '2023-06-26'
           date_end: '2023-09-15'
           description: Taught electronic engineering and researched semiconductor physics.
-        - title: Data Science Summer Institute Program
+        - title: National Science Foundation’s Research Experience for Undergraduates (NSF’s REU) Program
           company: Lawrence Livermore National Laboratory
           company_url: ''
           company_logo: LLNL_logo
