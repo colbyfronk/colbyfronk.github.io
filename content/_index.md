@@ -110,7 +110,7 @@ sections:
         - title: Lifeguard
           company: Mechanicsburg Area Community Pool
           company_url: ''
-          company_logo: LLNL_logo
+          company_logo: Mbg_logo
           location: Mechanicsburg, Pennsylvania
           date_start: '2013-05-01'
           date_end: '2015-09-01'
