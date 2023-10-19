@@ -86,7 +86,7 @@ sections:
         - title: National Science Foundation’s Research Experience for Undergraduates (NSF’s REU) Program
           company: Pennsylvania State University
           company_url: ''
-          company_logo: LLNL_logo
+          company_logo: PSU_logo
           location: University Park, PA
           date_start: '2018-05-01'
           date_end: '2018-08-01'
