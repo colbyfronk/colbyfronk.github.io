@@ -78,7 +78,7 @@ sections:
         - title: Data Science Summer Institute Program
           company: Lawrence Livermore National Laboratory
           company_url: ''
-          company_logo: org-x
+          company_logo: LLNL_logo
           location: Livermore, California
           date_start: '2023-06-26'
           date_end: '2023-09-15'
