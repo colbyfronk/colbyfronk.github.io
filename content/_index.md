@@ -84,12 +84,12 @@ sections:
           date_end: '2023-09-15'
           description: Taught electronic engineering and researched semiconductor physics.
         - title: National Science Foundation’s Research Experience for Undergraduates (NSF’s REU) Program
-          company: Lawrence Livermore National Laboratory
+          company: Pennsylvania State University
           company_url: ''
           company_logo: LLNL_logo
-          location: Livermore, California
-          date_start: '2023-06-26'
-          date_end: '2023-09-15'
+          location: University Park, PA
+          date_start: '2018-05-01'
+          date_end: '2018-08-01'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
