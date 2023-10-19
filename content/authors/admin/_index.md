@@ -27,8 +27,8 @@ bio: My research interests include multidisciplinary scientific computing and AI
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Neural Differential Equations
+  - Multidisciplinary Computational Math, Science, and Engineering
 
 # Education to show in About widget
 education:
