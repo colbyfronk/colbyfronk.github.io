@@ -75,21 +75,13 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Data Science Summer Institute Program
+          company: Lawrence Livermore National Laboratory
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-          - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          location: Livermore, California
+          date_start: '2023-06-26'
+          date_end: '2023-09-15'
           description: Taught electronic engineering and researched semiconductor physics.
           - title: Professor of Semiconductor Physics
           company: University X
