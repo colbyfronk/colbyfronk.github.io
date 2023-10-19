@@ -83,6 +83,14 @@ sections:
           date_start: '2023-06-26'
           date_end: '2023-09-15'
           description: Taught electronic engineering and researched semiconductor physics.
+        - title: Data Science Summer Institute Program
+          company: Lawrence Livermore National Laboratory
+          company_url: ''
+          company_logo: LLNL_logo
+          location: Livermore, California
+          date_start: '2023-06-26'
+          date_end: '2023-09-15'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
