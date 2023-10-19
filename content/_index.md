@@ -99,6 +99,14 @@ sections:
           date_start: '2017-05-01'
           date_end: '2018-05-01'
           description: Taught electronic engineering and researched semiconductor physics.
+        - title: Pharmaceutical Development and Manufacturing Sciences Co-op
+          company: Johnson & Johnson
+          company_url: ''
+          company_logo: LLNL_logo
+          location: Spring House, Pennsylvania
+          date_start: '2016-06-01'
+          date_end: '2017-01-01'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
