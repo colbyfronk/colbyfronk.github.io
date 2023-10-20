@@ -4,9 +4,9 @@ title: Mathematical Model Discovery with Neural Differential Equations
 event: 16th Annual Amgen-Clorox Graduate Student Symposium
 event_url: https://chemengr.ucsb.edu/graduate/symposium
 
-location: UC Santa Barbara
+location: University of California, Santa Barbara
 address:
-  street: Henley Hall 1010, 
+  street: Henley Hall 1010
   city: Santa Barbara
   region: CA
   postcode: '93117'
@@ -24,8 +24,8 @@ equation (neural ODE) tools for the symbolic regression of dynamical systems.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2023-09-22T16:15:00Z'
+date_end: '2023-09-22T17:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
