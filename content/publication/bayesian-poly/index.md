@@ -1,5 +1,5 @@
 ---
-title: "Interpretable polynomial neural ordinary differential equations"
+title: "Bayesian polynomial neural networks and polynomial neural ordinary differential equations"
 authors:
 - admin
 - Jaewoong Yun
@@ -20,13 +20,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Chaos: An Interdisciplinary Journal of Nonlinear Science, 33*(4)"
-publication_short: "Chaos"
+publication: "*arXiv, 1*(1)"
+publication_short: "arXiv"
 
-abstract: Neural networks have the ability to serve as universal function approximators, but they are not interpretable and do not generalize well outside of their training region. Both of these issues are problematic when trying to apply standard neural ordinary differential equations (ODEs) to dynamical systems. We introduce the polynomial neural ODE, which is a deep polynomial neural network inside of the neural ODE framework. We demonstrate the capability of polynomial neural ODEs to predict outside of the training region, as well as to perform direct symbolic regression without using additional tools such as SINDy.
+abstract: Symbolic regression with polynomial neural networks and polynomial neural ordinary differential equations (ODEs) are two recent and powerful approaches for equation recovery of many science and engineering problems. However, these methods provide point estimates for the model parameters and are currently unable to accommodate noisy data. We address this challenge by developing and validating the following Bayesian inference methods- the Laplace approximation, Markov Chain Monte Carlo (MCMC) sampling methods, and variational inference. We have found the Laplace approximation to be the best method for this class of problems. Our work can be easily extended to the broader class of symbolic neural networks to which the polynomial neural network belongs.
 
 # Summary. An optional shortened abstract.
-summary: We introduce the polynomial neural ODE, which is a deep polynomial neural network inside of the neural ODE framework. We demonstrate the capability of polynomial neural ODEs to predict outside of the training region, as well as to perform direct symbolic regression without using additional tools such as SINDy.
+summary: We develop and validate Bayesian inference methods for obtaining Bayesian uncertainties for the parameters in symbolic neural Ordinary Differential Equations.
 
 #tags:
 #- Source Themes
