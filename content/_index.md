@@ -70,11 +70,11 @@ sections:
           date_start: '2019-09-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+#              Responsibilities include:
+#
+#              * Analysing
+#              * Modelling
+#              * Deploying
         - title: Data Science Summer Institute Program
           company: Lawrence Livermore National Laboratory
           company_url: ''
