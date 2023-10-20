@@ -266,7 +266,7 @@ sections:
 #      text: |-
 #        Lorem ipsum dolor sit amet
 #      # Contact (add or remove contact options as necessary)
-#      email: test@example.org
+#      email: 
 #      phone: 888 888 88 88
 #      appointment_url: 'https://calendly.com'
 #      address:
