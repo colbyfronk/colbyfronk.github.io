@@ -114,5 +114,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Colby Fronk is a PhD student studying Scientific Artifical Intelligence and Scientific Computing in the Petzold research lab at UC Santa Barbara.  His PhD research lies in the field of neural differential equations, where he develops neural network architectures and numerical methods tailored to neural networks to model scientific processes.  Colby has a very broad interest in science and engineering.  He works as a data scientist that helps the domain scientist analyze data and develop models for challenging scientific problems.
 {style="text-align: justify;"}
