@@ -1,10 +1,10 @@
 ---
-title: Example Talk
+title: Mathematical Model Discovery with Neural Differential Equations
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: 16th Annual Amgen-Clorox Graduate Student Symposium
+event_url: https://chemengr.ucsb.edu/graduate/symposium
 
-location: Wowchemy HQ
+location: UC Santa Barbara
 address:
   street: 450 Serra Mall
   city: Stanford
