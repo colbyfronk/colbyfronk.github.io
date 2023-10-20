@@ -45,7 +45,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ams.confex.com/ams/2019Annual/mediafile/Manuscript/Paper355878/Trees%2C%20Aerosols%2C%20and%20Clouds-Extended%20Abstract.pdf'
+#url_pdf: 'https://ams.confex.com/ams/2019Annual/mediafile/Manuscript/Paper355878/Trees%2C%20Aerosols%2C%20and%20Clouds-Extended%20Abstract.pdf'
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_poster: ''
@@ -66,8 +66,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - []
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
