@@ -14,7 +14,7 @@ address:
 
 summary: We introduce the polynomial neural ODE, which is a deep polynomial neural network inside of the neural ODE framework. We demonstrate the capability of polynomial neural ODEs to predict outside of the training region, as well as perform direct symbolic regression without additional tools such as SINDy.
 abstract: 'Neural networks have the ability to serve as universal function approximators, but they are not interpretable and don’t generalize well outside of their training region. Both of these issues are problematic when trying to apply standard neural ordinary differential equations
-(neural ODEs) to dynamical systems. We introduce the polynomial neural ODE, which is a deep polynomial neural network inside of the neural ODE framework. We demonstrate the capability of polynomial neural ODEs to predict outside of the training region, as well as perform direct symbolic regression without additional tools such as SINDy'
+(neural ODEs) to dynamical systems. We introduce the polynomial neural ODE, which is a deep polynomial neural network inside of the neural ODE framework. We demonstrate the capability of polynomial neural ODEs to predict outside of the training region, as well as perform direct symbolic regression without additional tools such as SINDy.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
