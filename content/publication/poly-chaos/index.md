@@ -26,8 +26,8 @@ abstract: Neural networks have the ability to serve as universal function approx
 # Summary. An optional shortened abstract.
 summary: We introduce the polynomial neural ODE, which is a deep polynomial neural network inside of the neural ODE framework. We demonstrate the capability of polynomial neural ODEs to predict outside of the training region, as well as to perform direct symbolic regression without using additional tools such as SINDy.
 
-tags:
-- Source Themes
+#tags:
+#- Source Themes
 featured: true
 
 # links:
