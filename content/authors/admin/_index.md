@@ -33,7 +33,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Chemical Engineering/Scientific Artificial Intelligence
+    - course: PhD in Chemical Engineering #/Scientific Artificial Intelligence
       institution: University of California, Santa Barbara
       year: 2024
     - course: BSc in Chemical Engineering
