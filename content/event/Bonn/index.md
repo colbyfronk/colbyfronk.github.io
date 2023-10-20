@@ -18,9 +18,9 @@ abstract: 'Neural networks have the ability to serve as universal function appro
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-04-21T11:30:00Z'
-date_end: '2023-04-21T12:30:00Z'
-all_day: false
+date: '2022-08-25' #T11:30:00Z'
+#date_end: '2023-04-21T12:30:00Z'
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
