@@ -15,7 +15,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2019-01-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -57,7 +57,7 @@ url_video: 'https://youtube.com'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
   preview_only: false
 
