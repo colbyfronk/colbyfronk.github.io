@@ -12,15 +12,8 @@ address:
   postcode: '93117'
   country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Scientists devote years to the model development cycle, which is the process of finding a model that
-describes a process, using data to fit parameters to the model, analyzing uncertainties in the fitted
-parameters, and performing additional experiments to refine and validate the model. In this project,
-we have developed tools to accelerate the model development cycle, enabling the experimentalist to
-focus on what they do best: scientific discovery. We demonstrate how Neural Differential Equations
-can be used for data-driven modeling of time-series data and dynamical systems found in science and
-engineering. We also demonstrate our state-of-the-art symbolic neural ordinary differential
-equation (neural ODE) tools for the symbolic regression of dynamical systems.'
+summary: We demonstrate how Neural Differential Equations can be used for data-driven modeling of time-series data and dynamical systems found in science and engineering. We also demonstrate our state-of-the-art symbolic neural ordinary differential equation (neural ODE) tools for the symbolic regression of dynamical systems.
+abstract: 'Scientists devote years to the model development cycle, which is the process of finding a model that describes a process, using data to fit parameters to the model, analyzing uncertainties in the fitted parameters, and performing additional experiments to refine and validate the model. In this project, we have developed tools to accelerate the model development cycle, enabling the experimentalist to focus on what they do best: scientific discovery. We demonstrate how Neural Differential Equations can be used for data-driven modeling of time-series data and dynamical systems found in science and engineering. We also demonstrate our state-of-the-art symbolic neural ordinary differential equation (neural ODE) tools for the symbolic regression of dynamical systems.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
