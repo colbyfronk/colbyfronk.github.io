@@ -6,14 +6,21 @@ event_url: https://chemengr.ucsb.edu/graduate/symposium
 
 location: UC Santa Barbara
 address:
-  street: 450 Serra Mall
-  city: Stanford
+  street: Henley Hall 1010, 
+  city: Santa Barbara
   region: CA
-  postcode: '94305'
+  postcode: '93117'
   country: United States
 
 summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'Scientists devote years to the model development cycle, which is the process of finding a model that
+describes a process, using data to fit parameters to the model, analyzing uncertainties in the fitted
+parameters, and performing additional experiments to refine and validate the model. In this project,
+we have developed tools to accelerate the model development cycle, enabling the experimentalist to
+focus on what they do best: scientific discovery. We demonstrate how Neural Differential Equations
+can be used for data-driven modeling of time-series data and dynamical systems found in science and
+engineering. We also demonstrate our state-of-the-art symbolic neural ordinary differential
+equation (neural ODE) tools for the symbolic regression of dynamical systems.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -60,14 +67,14 @@ projects:
   - example
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
+#{{% callout note %}}
+#Click on the **Slides** button above to view the built-in slides feature.
+#{{% /callout %}}
 
-Slides can be added in a few ways:
+#Slides can be added in a few ways:
 
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+#- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` #parameter in the front matter of the talk file
+#- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+#- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/#writing-markdown-latex/).
 
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+#Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added #to the body of this page.
