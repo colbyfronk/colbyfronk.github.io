@@ -82,7 +82,7 @@ sections:
           location: Livermore, California
           date_start: '2023-06-26'
           date_end: '2023-09-15'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: While at LLNL, Colby developed AI algorithms for surrogate modeling of plasma physics in nuclear fusion processes.  In Dec 2022, LLNL conducted the first successful nuclear fusion experiment and the goal of the research was to improve the models so that nuclear fusion could be scaled up for carbon-free energy production, which the world needs as a solution to climate change.
         - title: National Science Foundation’s Research Experience for Undergraduates (NSF’s REU) Program
           company: Pennsylvania State University
           company_url: ''
@@ -90,7 +90,7 @@ sections:
           location: University Park, Pennsylvania
           date_start: '2018-05-01'
           date_end: '2018-08-01'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: While at Penn State, Colby wrote scientific simulation code to simulate atmospheric cloud formation processes.  The research goal was to figure out how cloud droplet formation differed between anthropogenic aerosol particles and secondary aerosol particles released from trees.
         - title: Product Commercialization & Process Engineering Co-op
           company: The Hershey Company
           company_url: ''
@@ -98,7 +98,7 @@ sections:
           location: Hershey, Pennsylvania
           date_start: '2017-05-01'
           date_end: '2018-05-01'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: While at the Hershey Company, Colby worked with food scientists and engineers to develop new manufacturing processes for new products ranging from snack foods to chocolate bars.  This was done through R&D laboratory experiments, pilot plant trials, consumer testing, marketing sample production, and line feasibility tests.
         - title: Pharmaceutical Development and Manufacturing Sciences Co-op
           company: Johnson & Johnson
           company_url: ''
@@ -106,7 +106,7 @@ sections:
           location: Spring House, Pennsylvania
           date_start: '2016-06-01'
           date_end: '2017-01-01'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: While at Johnson & Johnson, Colby worked on a team of 14 research scientists to develop a purification process for an adenovirus-based HIV vaccine.  
         - title: Lifeguard
           company: Mechanicsburg Area Community Pool
           company_url: ''
