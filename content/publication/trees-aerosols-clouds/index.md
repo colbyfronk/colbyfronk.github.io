@@ -45,14 +45,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+url_pdf: 'https://ams.confex.com/ams/2019Annual/mediafile/Manuscript/Paper355878/Trees%2C%20Aerosols%2C%20and%20Clouds-Extended%20Abstract.pdf'
+#url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+#url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+#url_poster: ''
+#url_project: ''
+#url_slides: ''
+#url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+#url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -66,8 +66,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+projects: []
+#  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
