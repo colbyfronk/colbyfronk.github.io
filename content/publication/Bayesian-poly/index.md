@@ -27,7 +27,7 @@ summary: In this work we develop and validate a few Bayesian inference methods f
 
 #tags:
 #- Source Themes
-featured: false
+featured: true
 
 links:
 - name: url
@@ -54,8 +54,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-#projects:
-#- internal-project
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
