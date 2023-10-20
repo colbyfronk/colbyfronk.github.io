@@ -30,10 +30,10 @@ publication_types: ['paper-conference']
 publication: 99th American Meteorological Society Annual Meeting
 publication_short: AMS Annual Meeting
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: For about the last 20 years, the aerosol composition of the eastern United States has been changing as a result of two major factors 1.) anthropogenic aerosol emissions have steadily been decreasing [Doughty, 2014] and 2.) biogenic secondary organic aerosols (SOAs) emissions originating from plants have steadily increased as a result of an increase in vegetation brought about by reforestation [Barr et al., 2003]. The current impact of the changing aerosol composition defined by an increase in SOAs and a decrease in anthropogenic aerosols on the formation and growth of cloud droplets is currently unknown. In order to get a preliminary understanding, its impact on cloud microphysics will be studied by looking at Kӧhler theory and observing how these aerosols behave in an air parcel model.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We performed numerical simulation experiments for the formation and growth of cloud droplets to test how cloud formation processes change when there is an increase in biogenic secondary organic aerosols (SOAs) emissions originating from plants and a decrease in anthropogenic aerosols.
 
 tags: []
 
