@@ -6,7 +6,9 @@ title: 'Trees, Aerosols, and Clouds'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Gwenore Pokrifka
+  - Jerry Harrington
+  - Jose Fuentes
 
 # Author notes (optional)
 author_notes:
