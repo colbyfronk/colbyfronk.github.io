@@ -258,11 +258,11 @@ sections:
   #      {{< gallery album="demo" >}}
   #  design:
   #    columns: '1'
-  #- block: contact
-  #  id: contact
-  #  content:
-  #    title: Contact
-  #    subtitle:
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle:
 #      text: |-
 #        Lorem ipsum dolor sit amet
 #      # Contact (add or remove contact options as necessary)
