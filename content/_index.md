@@ -238,7 +238,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Past & Upcoming Talks
+      title: Past & Future Talks
       filters:
         folders:
           - event
