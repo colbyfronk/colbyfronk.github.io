@@ -200,10 +200,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        #- name: Deep Learning
+        #  tag: Deep Learning
+        #- name: Other
+        #  tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -223,7 +223,7 @@ sections:
       view: card
   - block: collection
     content:
-      title: Recent Publications
+      title: Additional Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -238,7 +238,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Past & Upcoming Talks
       filters:
         folders:
           - event
