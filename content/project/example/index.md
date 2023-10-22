@@ -3,10 +3,10 @@ title: Eagle Scout Project
 summary: An example of using the in-built project page.
 #tags:
 #  - Other
-date: '2016-04-27T00:00:00Z'
+date: '2013-08-28T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+#external_link: ''
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -30,19 +30,11 @@ url_video: ''
 slides: example
 ---
 
-An Eagle Scout is the highest rank in the scouting program and only about 5 % of scouts obtain it.  In order to become an Eagle Scout, a Boy Scout must complete an Eagle Scout Project that benefits the community.  The main purpose of the Eagle Scout Project is to demonstrate and develop leadership skills.  It must also show planning, development, and leadership.   The project must be completed and led solely by the scout.  
+An Eagle Scout is the highest rank in the scouting program, only about 5% of all Boy Scouts obtain it.  In order to become an Eagle Scout, a Boy Scout must complete an Eagle Scout Project that benefits the community.  The main purpose of the Eagle Scout Project is to demonstrate and develop leadership skills.  It must also show planning, development, and leadership.   The project must be completed and led solely by the scout.  My Eagle Scout Project was for the Mechanicsburg Museum, an old train station located in my hometown.  I was responsible for installing a sign and revitalizing the landscaping around the museum.  
 
-My Eagle Scout Project was for the Mechanicsburg Museum, the old train station located on West Strawberry Alley.  I was responsible for installing a sign, installing a planter box around the sign, doing landscaping around the buildings, and painting “MUSEUM PARKING ONLY” on the museum’s parking spaces. 
+I spent over 100 hours on just the planning aspect of my project.  Before I could put shovels in the ground, I had to make sure I had a detailed, approved plan.  I had to meet with the troop committee, troop council, the museum, and sign company.  The sign location, color, size, material, and wording all had to be determined.  I then used computer drafting software to draw my sign design on the computer.  I was then able to take my drawing to the sign company and they were able to construct it based on my specifications.  I also had to design the landscaping around the sign and buildings.  I used the computer to draw the landscaping sections.  I had help from Stauffers to design the landscaping.  With pictures and drawings with dimensions, we were able to come up with a landscaping plan.  After all of the initial planning was completed, I needed to acquire a zoning permit from the Mechanicsburg Borough and call PA 811 to make sure that nothing dangerous, utility pipes and electrical lines, was under the ground where I was digging.  
 
-I spent over 100 hours on just the planning aspect of my project.  Before I could put shovels in the ground, I had to make sure I had a detailed, approved plan.  I had to meet with the troop committee, troop council, the museum, and sign company.  The sign location, color, size, material, and wording all had to be determined.  I then used computer drafting software to draw my sign design on the computer.  I was then able to take my drawing to the sign company and they were able to construct it based on my specifications.  
-
-I also had to design the landscaping around the sign and buildings.  I used the computer to draw the landscaping sections.  I had help from Stauffers to design the landscaping.  With pictures and drawings with dimensions, we were able to come up with a landscaping plan.
-
-After all of the initial planning was completed, I needed to acquire a zoning permit from the Mechanicsburg Borough and call PA 811 to make sure that nothing dangerous, utility pipes and electrical lines, was under the ground where I was digging.  
-
-All of my planning filled a 4” binder.  This binder is known as my workbook.  For more details on my project see the workbook.  The workbook is detailed enough that anyone could pick up the workbook and complete the project themselves.  I needed to have all of the materials needed, tools needed, expenses, revenue, dimensions, work steps, and planning steps in the workbook.
-
-A challenge that I had to deal with was raising enough money to pay for the expenses in my project.  The expenses added up to $1,578 and I was able to raise all of the money needed to complete my project.  With the help of local businesses and family/friend donations, I was able to fund my project. 
+One of the challenges for the project was raising money to pay for the expenses in my project.  The expenses added up to $1,578 and I was able to raise all of the money needed to complete my project.  With the help of local businesses and family/friend donations, I was able to fund my project. 
 
 After my extensive planning, I was able to actually do physical work on my project.  My project took approximately three days to complete.  The work days were August 17th, 18th, and 24th of 2013.  With the help of 42 volunteers I was able to complete my project.  The total number of working hours spent on my project was 296 hours.
 
