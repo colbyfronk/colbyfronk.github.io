@@ -1,6 +1,6 @@
 ---
 title: Eagle Scout Project
-summary: An example of using the in-built project page.
+summary: An Eagle Scout is the highest rank in the scouting program.
 #tags:
 #  - Other
 date: '2013-08-28T00:00:00Z'
