@@ -12,22 +12,22 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+#links:
+#  - icon: twitter
+#    icon_pack: fab
+#    name: Follow
+#    url: https://twitter.com/georgecushen
+#url_code: ''
+#url_pdf: ''
+#url_slides: ''
+#url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: "" #example
 ---
 
 An Eagle Scout is the highest rank in the scouting program, only about 5% of all Boy Scouts obtain it.  In order to become an Eagle Scout, a Boy Scout must complete an Eagle Scout Project that benefits the community.  The main purpose of the Eagle Scout Project is to demonstrate and develop leadership skills.  It must also show planning, development, and leadership.   The project must be completed and led solely by the scout.  My Eagle Scout Project was for the Mechanicsburg Museum, an old train station located in my hometown.  I was responsible for installing a sign and revitalizing the landscaping around the museum.  
